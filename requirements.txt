@@ -1,0 +1,9 @@
+streamlit
+spacy
+nltk
+scikit-learn
+plotly
+PyMuPDF
+networkx
+joblib
+pandas
